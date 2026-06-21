@@ -1,4 +1,1 @@
-so umm hello, you may see a lot of games in the games category but they dont work thats due to storage limitations. I will be adding new games over-time so uhhh
--- AVAILABLE GAMES --
-Minion Plate
-Minion Kart
+I NEED HELP! i am trying to upload higher than 25 mb game: Minion defender which is packaged through turbowarp packager (sb3 to html basically), and github wont let me directly use the release downloads I NEED HELP AND ITS VERY IMPORTANT
